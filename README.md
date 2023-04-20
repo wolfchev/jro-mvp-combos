@@ -435,7 +435,7 @@
 <details>
   <summary>
     <a href="https://divine-pride.net/database/item/13473/1">
-      Gods_Sword ✔️
+      Gods_Sword 🔺
     </a>
   </summary>
 
@@ -447,7 +447,7 @@
 <details>
   <summary>
     <a href="https://divine-pride.net/database/item/500005/1">
-      Magic_Sword_J ✔️
+      Magic_Sword_J 🔺
     </a>
   </summary>
   
@@ -483,7 +483,7 @@
 <details>
   <summary>
     <a href="https://divine-pride.net/database/item/15137/1">
-      Tatenashi Armor [1] ✔️
+      Tatenashi Armor [1] 🔺
     </a>
   </summary>
   
@@ -518,7 +518,7 @@
 <details>
   <summary>
     <a href="https://divine-pride.net/database/item/500009/1">
-      Copy_Gram ✔️
+      Copy_Gram 🔺
     </a>
   </summary>
   
@@ -607,7 +607,7 @@
 </details>
 <details>
   <summary>
-    <a href="https://divine-pride.net/database/item/450158  1">
+    <a href="https://divine-pride.net/database/item/450158/1">
       Awakened Okami Robe [1] 🔺
     </a>
   </summary>
