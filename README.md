@@ -8,6 +8,558 @@
 ⭕ Combo is with an in-game item, but the item's ID is different than that of other servers
 
 ---
+## Amon Ra
+<img src="./images/amon ra.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/22071/1">
+      Applause Sandals ✔️
+    </a>
+  </summary>
+  
+  - Disable Kyrie Eleison autocast
+  - Reduce variable casting time by 10%
+  - All stat +3 per refine
+
+</details>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Dark Lord
+<img src="./images/dl.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/22203/1">
+      Space Shoes 🔺
+    </a>
+  </summary>
+  
+  - Enable use of Volcano level 5
+
+  - If base level is 99 or lower  
+    + When receiving physical damage, enable a chance to increase Fire property damage dealt by 5% per refine
+  
+  - If base level is 100 or higher  
+    + When receiving physical damage, enable a chance to increase Fire property damage dealt by 10% per refine
+
+</details>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/22203/1">
+      Awakened Space Shoes 🔺
+    </a>
+  </summary>
+  
+  - Enable use of Meteor Storm level 10
+  - Disable Meteor Storm autocast
+
+  - If base level is 99 or lower  
+    + Increase Fire, Shadow and Neutral property magical damage by 3% per refine
+  
+  - If base level is 100 or higher  
+    + Increase Fire, Shadow and Neutral property magical damage by 8% per refine
+
+</details>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Dracula
+<img src="./images/dracula.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Big Eggring
+<img src="./images/eggring.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/312421/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Golden Thief Bug
+<img src="./images/gtb.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Moonlight Flower
+<img src="./images/moonlight.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/22132/1">
+      Fire Thunder Okami Shoes 🔺
+    </a>
+  </summary>
+  
+  - Enable use of Heal level 10
+
+  - If base level is 99 or lower  
+    + MAtk +5 and MDef +5 per refine
+  
+  - If base level is 100 or higher  
+    + MAtk +15 and MDef +10 per refine
+
+</details>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/470047/1">
+      Awakened Fire Thunder Okami Shoes 🔺
+    </a>
+  </summary>
+  
+  - Enable use of Heal level 10
+
+  - If base level is 99 or lower  
+    + Int +3 and MDef +5 per refine
+  
+  - If base level is 100 or higher  
+    + Int +10 and MDef +10 per refine
+  
+</details>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Pharaoh
+<img src="./images/pharaoh.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## R48-85 Bestia
+<img src="./images/bestia.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311883/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Stormy Knight
+<img src="./images/sk.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/26163/1">
+      Rainbow Foxtail 🔺
+    </a>
+  </summary>
+  
+  - If Spirit Mable level 1 is learned
+    + Enable a chance of casting Diamond Dust level 5 when physically attacking
+    + Increase damage dealt with Diamond Dust by 10% per refine
+    + Increase damage dealt with Water property magic by 5% per refine
+  
+</details>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Turtle General
+<img src="./images/tg.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Baphomet
+<img src="./images/baphomet.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Boitata
+<img src="./images/boitata.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/22178/1">
+      Phoenix Foxtail 🔺
+    </a>
+  </summary>
+  
+  - If Spirit Mable level 1 is learned
+    + Enable a chance of casting Crimson Rock level 5 when physically attacking
+    + Increase damage dealt with Crimson Rock by 10% per refine
+    + Increase damage dealt with Fire property magic by 5% per refine
+  
+</details>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Polluted Spider Queen
+<img src="./images/pollutedspider.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311074/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Drake
+<img src="./images/drake.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Eddga
+<img src="./images/eddga.png" width=33% height=33%>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Egnigem Cenia
+<img src="./images/egnigem.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://divine-pride.net/database/item/22178/1">
+      Nameless Swordman's Boots 🔺
+    </a>
+  </summary>
+  
+  - Enable use of level 10 Magnum Break
+  - Every 10 seconds, restore 5000 HP and 100 SP
+
+  - If base level is 99 or lower  
+    + Str +3 and Flee +5 per refine
+  
+  - If base level is 100 or higher  
+    + Str +10 and Flee +15 per refine
+  
+</details>
+<details>
+  <summary>
+  https://divine-pride.net/database/item/29724/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Gopinich
+<img src="./images/gopinich.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Hatii
+<img src="./images/hatii.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://www.divine-pride.net/database/item/15374/">
+      Lunar Eclipse Armor 🔷
+    </a>
+  </summary>
+  
+  - Immunity to Frozen
+  - Increase damage dealt to Water property monsters by 5% per refine
+  
+</details>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Jewel Ungoliant
+<img src="./images/jungoliant.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Kiel D-01
+<img src="./images/kiel.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Leak
+<img src="./images/leak.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Maya
+<img src="./images/maya.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Memory of Thanatos
+<img src="./images/thanatos.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://www.divine-pride.net/database/item/19106/1">
+      Phantom of Masquerade 🔺
+    </a>
+  </summary>
+  
+  - Increase Atk based on refine rate of headgear
+  
+</details>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311074/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/310197/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Mistress
+<img src="./images/mistress.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://www.divine-pride.net/database/item/19106/1">
+      Magicstone of Grace 🔺
+    </a>
+  </summary>
+  
+  - Reduce SP usage of skills by 50%
+  - Increase magical damage by 10%
+  - When using healing skills, increase HP recovered by 10%
+  - When using Royal Jelly, recover 15% HP/SP
+  
+</details>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Orc Lord
+<img src="./images/orclord.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://www.divine-pride.net/database/item/450142/1  ">
+      Orc Lord Armor 🔺
+    </a>
+  </summary>
+  
+  - Immunity to Frozen
+
+  - If base level is 99 or lower  
+    + Increase damage dealt to Shadow property monsters by 3% per refine
+  
+  - If base level is 100 or higher  
+    + Increase damage dealt to Shadow property monsters by 10% per refine
+  
+</details>
+<details>
+  <summary>
+    <a href="https://www.divine-pride.net/database/item/450205/1">
+      Awakened Orc Lord Armor 🔺
+    </a>
+  </summary>
+  
+  - Immunity to Frozen
+
+  - If base level is 99 or lower  
+    + Increase damage dealt to Shadow property monsters by 5% per refine
+  
+  - If base level is 100 or higher  
+    + Increase damage dealt to Shadow property monsters by 13% per refine
+  
+</details>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311072/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Queen Scaraba
+<img src="./images/q-scaraba.png" width=33% height=33%>
+<details>
+  <summary>
+    <a href="https://www.divine-pride.net/database/item/19023/1">
+      Queen Scaraba Helm 🔺
+    </a>
+  </summary>
+  
+  - Increase damage dealt to Scaraba type monsters by an additional 30%
+  
+</details>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311075/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Firm Muspellskoll
+<img src="./images/muspell.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311074/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## Time Holder
+<img src="./images/th.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311075/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
+## White Lady
+<img src="./images/whitelady.png" width=33% height=33%>
+<details>
+  <summary>
+  https://www.divine-pride.net/database/item/311439/ 🔰
+  </summary>
+  
+  - Enchants left untranslated
+  
+</details>
+
+---
 ## High Priest
 <img src="./images/hp.png" width=33% height=33%>
 <details>
